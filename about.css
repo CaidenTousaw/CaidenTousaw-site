@@ -59,3 +59,155 @@ html {
     float: none;
   }
 }
+
+
+
+.youtube {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.youtube img:hover {
+  transform: scale(1.1);
+
+}
+
+.red_border {
+  background-color: rgb(255, 0, 0);
+}
+
+.steam_border {
+  background-color: #091a44;
+}
+
+.steam {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.steam img:hover {
+  transform: scale(1.1);
+
+}
+
+.twitter_border {
+  background-color: #2aa9e0;
+}
+
+.twitter {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  padding-left: 10px;
+}
+
+
+.twitter img:hover {
+  transform: scale(1.1);
+
+}
+.github_border {
+  background-color: #000000;
+}
+
+.github {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  padding-left: 30px;
+}
+
+.github img:hover {
+  transform: scale(1.1);
+
+}
+
+.srdc_border {
+  background-color: #f4c553;
+}
+
+.srdc {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.srdc img:hover {
+  transform: scale(1.1);
+
+}
+
+.twitch_border {
+  background-color: #6440a5;
+}
+
+.twitch {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.twitch img:hover {
+  transform: scale(1.1);
+
+}
+
+.snap_border {
+  background-color: #fffc00;
+}
+.snap {
+  float: center;
+  width: 33.33%;
+  padding: 5px;
+  padding-top: 20px;
+}
+
+.snap img:hover {
+  transform: scale(1.1);
+
+}
+
+
+.spotify_border {
+  background-color: #1ed760;
+}
+
+.spotify {
+  float: right;
+  width: 33.33%;
+  padding: 5px;
+  padding-top: 20px;
+}
+
+.spotify img:hover {
+  transform: scale(1.1);
+
+}
+
+.insta_border {
+  background-color: #e13764;
+}
+
+.insta {
+  float: center;
+  width: 33.33%;
+  padding: 5px;
+  padding-top: 40px;
+}
+
+.insta img:hover {
+  transform: scale(1.1);
+
+}
+
+.paragraph {
+  color: white;
+}
+
+.about {
+  color: white;
+}
